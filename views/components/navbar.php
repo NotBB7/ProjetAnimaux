@@ -9,16 +9,16 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav mx-auto">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Accueil</a>
+          <a class="nav-link active" aria-current="page" href="../controllers/controller-accueil.php">Accueil</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Formulaire</a>
+          <a class="nav-link" href="../controllers/controller-formulaire.php">Formulaire</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Listes</a>
+          <a class="nav-link" href="../controllers/controller-liste.php">Listes</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link">Contact</a>
+          <a class="nav-link" href="../controllers/controller-contact.php">Contact</a>
         </li>
       </ul>
     </div> <br>
